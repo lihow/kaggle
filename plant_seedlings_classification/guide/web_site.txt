@@ -1,0 +1,4 @@
+https://github.com/GallenShao/PlantSeedlingsClassification/blob/master/README.md
+http://www.sohu.com/a/237639721_473283
+https://blog.csdn.net/yeahDeDiQiZhang/article/details/79541040
+https://www.kaggle.com/raoulma/plants-xception-90-06-test-accuracy

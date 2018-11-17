@@ -2,3 +2,5 @@ https://github.com/BIGBALLON/cifar-10-cnn/blob/master/README.md
 resnet:
 https://github.com/wenxinxu/ResNeXt-in-tensorflow/blob/master/cifar10_train.py
 https://github.com/wenxinxu/resnet-in-tensorflow/blob/master/resnet.py
+pytorch
+https://github.com/miraclewkf/ImageClassification-PyTorch/blob/master/level2/train_customData.py

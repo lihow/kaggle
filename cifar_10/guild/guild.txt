@@ -6,3 +6,5 @@ pytorch
 https://github.com/miraclewkf/ImageClassification-PyTorch/blob/master/level2/train_customData.py
 wide-resnet
 https://github.com/xternalz/WideResNet-pytorch/blob/master/wideresnet.py
+densenet
+https://github.com/junyuseu/pytorch-cifar-models/blob/master/models/densenet_cifar.py

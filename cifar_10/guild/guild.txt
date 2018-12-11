@@ -11,3 +11,6 @@ densenet
 https://github.com/junyuseu/pytorch-cifar-models/blob/master/models/densenet_cifar.py
 senet
 https://github.com/miraclewkf/SENet-PyTorch/blob/master/se_resnet.py
+inception/googlenet
+https://github.com/weiaicunzai/pytorch-cifar/blob/master/models/inceptionv3.py
+https://github.com/xuchaoxikb/pytorch-classification/blob/master/models/googlenet.py

@@ -1,0 +1,2 @@
+triplet_loss
+https://github.com/SpikeKing/triplet-loss-mnist/blob/master/models/triplet_model.py
